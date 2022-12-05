@@ -1,4 +1,4 @@
-# Amazingames VideoGames Store 🎮
+# Amazingames VideoGames Store 🎮 [REACT / TAILWIND CSS]
 
 The newest video game releases are available on a variety of platforms at AmazinGames store. The page is accessible from any device (PC, Phone or Tablet)
 
